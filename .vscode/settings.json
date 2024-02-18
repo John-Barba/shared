@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["datetime", "dropoff"],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
